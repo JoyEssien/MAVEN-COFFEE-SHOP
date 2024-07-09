@@ -1,4 +1,5 @@
-# MAVEN-COFFEE-SHOP
+# **MAVEN-COFFEE-SHOP**
+---
 
 ## TABLE OF CONTENTS
 
@@ -12,6 +13,7 @@
  - [RECOMMENDATIONS](#recommendations)
 
 ### PROJECT OVERVIEW
+---
 
  I'm thrilled to showcase this project, focusing on the Maven Roaster coffee shop, which operates three bustling locations in New York City. This project was a deep dive into understanding customer purchase behavior and optimizing operational efficiency from data collected between January and June 2023, during peak hours from 7 AM to 8 PM.
 
