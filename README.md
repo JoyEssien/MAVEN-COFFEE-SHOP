@@ -23,6 +23,12 @@ Here's a glimpse of what I accomplished and the key insights gained:
 
 📍 Locations: Three vibrant spots across NYC
 
+
+![Screenshot 2024-06-27 112420](https://github.com/JoyEssien/MAVEN-COFFEE-SHOP/assets/175028787/ea57f1a2-401f-42c7-b49e-4d197f933cb7)
+
+
+
+
 ### DATA SOURCE
 
 - MAVEN ANALYTICS : "Coffee Shop Sales.xlsx"
