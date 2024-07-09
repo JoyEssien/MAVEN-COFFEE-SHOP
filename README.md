@@ -8,6 +8,7 @@
  - [DATA CLEANING/PREPARATIONS](#data-cleaning/preparations)
  - [PROJECT GOAL](#project-goal)
  - [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+ - [KEY FINDINGS](#key-findings)
  - [RECOMMENDATIONS](#recommendations)
 
 ### PROJECT OVERVIEW
@@ -73,7 +74,7 @@ Enhanced Insights: Allowed for quick comparison and deeper insights into specifi
 
 I observed interesting patterns in transactions by day of the week and hour of the day. For instance, in Lower Manhattan, transactions are lowest around 8-9 PM, suggesting that keeping the store open during this time may result in financial losses. Conversely, the highest sales occur on Monday mornings, with coffee being the most purchased item.
 
-### RECOMMENDATION BASED ON KEY FINDINGS
+### RECOMMENDATIONS
 
 Based on the exploratory data analysis of Maven Roaster coffee shops, several key patterns emerged that can inform strategic decisions to enhance operations and increase profitability. Here are some targeted recommendations:
 
