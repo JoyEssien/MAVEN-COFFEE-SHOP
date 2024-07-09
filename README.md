@@ -117,8 +117,11 @@ Based on the exploratory data analysis of Maven Roaster coffee shops, several ke
         offerings and improve the customer experience.
         
 Conclusion:
-By implementing these recommendations, Maven Roaster can enhance operational efficiency, reduce costs, and capitalize on high-demand periods. Adjusting store hours, optimizing inventory and staffing, and targeting promotions will help align business operations with customer behavior, ultimately driving increased profitability and customer satisfaction
+By implementing these recommendations, Maven Roaster can enhance operational efficiency, reduce costs, and capitalize on high-demand periods. Adjusting store hours, optimizing inventory and staffing, and targeting promotions will help align business operations with customer behavior, ultimately driving increased profitability and customer satisfaction.
 
+🔽
+
+😄
 
 
 
