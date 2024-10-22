@@ -7,7 +7,7 @@
  - [PROJECT OVERVIEW](#project-overview)
  - [DATA SOURCE](#data-source)
  - [TOOLS](#tools)
- - [DATA CLEANING/PREPARATIONS](#data-cleaning-preparations)
+ - [DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparations)
  - [PROJECT GOAL](#project-goal)
  - [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
  - [KEY FINDINGS](#key-findings)
@@ -41,7 +41,7 @@ Here's a glimpse of what I accomplished and the key insights gained:
 - MICROSOFT EXCEL: Data Cleaning
 - MICROSOFT EXCEL: Data Visualization/Create a Report
 
-### DATA CLEANING/PREPARATIONS
+### DATA CLEANING AND PREPARATIONS
 
 
  - Data Cleaning:
