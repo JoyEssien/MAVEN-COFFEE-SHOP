@@ -1,6 +1,8 @@
 # **MAVEN-COFFEE-SHOP**
 ---
 
+We will take close look at Maven Coffee Shop and their sales pattern across three locations in New York City, United State.
+
 ## TABLE OF CONTENTS
 
  - [PROJECT OVERVIEW](#project-overview)
