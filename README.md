@@ -7,7 +7,7 @@
  - [PROJECT OVERVIEW](#project-overview)
  - [DATA SOURCE](#data-source)
  - [TOOLS](#tools)
- - [DATA CLEANING/PREPARATIONS](#data-cleaning/preparations)
+ - [DATA CLEANING/PREPARATIONS](#data-cleaning-preparations)
  - [PROJECT GOAL](#project-goal)
  - [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
  - [KEY FINDINGS](#key-findings)
@@ -72,9 +72,17 @@ Categorized Data: Classified data by product type, time of purchase, and store l
        Analyzed total sales, average sales per transaction, and customer count for each store.
      - Product Performance Analysis: Used pivot charts to identify best-selling products at each store.
        Evaluated the contribution of different product categories (e.g., beverages, pastries) to overall sales.
+
+![Screenshot 2024-06-27 111608](https://github.com/user-attachments/assets/80a0f02a-b203-4eb9-901e-33f5f5ea0c42)
+
+       
   3. Peak Period Analysis: Generated time-based pivot charts to analyze sales trends throughout the day.
      Identified peak sales periods (e.g., morning rush, afternoon breaks) by visualizing sales data for each hour.
-  4. Interactive Analysis with Slicers: Dynamic Filtering: Incorporated slicers to enable interactive filtering of data by store location, product type, and time 
+
+![Screenshot 2024-06-27 112400](https://github.com/user-attachments/assets/0954b92f-8988-40cc-93f7-324f36a9984d)
+
+     
+  5. Interactive Analysis with Slicers: Dynamic Filtering: Incorporated slicers to enable interactive filtering of data by store location, product type, and time 
      period.
      
 Enhanced Insights: Allowed for quick comparison and deeper insights into specific segments of data by using slicers.
